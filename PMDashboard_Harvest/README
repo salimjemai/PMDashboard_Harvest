@@ -1,0 +1,19 @@
+- This Program is Accessing Harvest API using different endpoints.
+
+- The data that was returned from the URL request is in JSON format
+
+- We imported the appropriate json libraries to parse the data to java objects.
+
+- Created class Person that Instantiate the uesrs/person attributes
+
+- WriteDataIntoPersonRecord class has two methods that Converts the JSON data to Java Objects
+
+- Added a maven framwork
+
+- igitignore file will includes any file/folder that we don't want to display in the  remote repository
+
+- Installed MySQL Workbench and created a local database named "HarvestDB"
+
+- Create a class that will establish the connection setting/authentication to this DB
+
+- Create a method/class that deduplicate users data
